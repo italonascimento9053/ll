@@ -2,3 +2,7 @@
 
 #EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV ABERTA",GLOBO SP 
 https://dlnmh9ip6v2cxz.cloudfontes.net/globosp.m3u8
+
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/espn.png" group-title="TV ABERTA",GLOBO SP 
+https://dlnmh9ip6v2cxz.cloudfontes.net/espn.m3u8
+
