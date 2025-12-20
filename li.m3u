@@ -1,10 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV ABERTA",GLOBO SP 
+#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="TV",GLOBO SP 
 https://dlnmh9ip6v2cxz.cloudfontes.net/globosp.m3u8
 
-#EXTINF:-1 tvg-logo="http://s17.postimg.org/w75u3yg1n/astral.png" group-title="TV ABERTA",Astral TV 
+#EXTINF:-1 tvg-logo="" group-title="TV",ESPN
 https://dlnmh9ip6v2cxz.cloudfontes.net/espn.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV PAGA",TNT
+#EXTINF:-1 tvg-logo="" group-title="TV",TNT
 https://dlnmh9ip6v2cxz.cloudfontes.net/tnt.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV",SporTV 3
+https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/sportv3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV",ESPN 3
+https://d1muf25xa12so8hp20.s27-usa-cloudfront-net.online/espn3.m3u8
