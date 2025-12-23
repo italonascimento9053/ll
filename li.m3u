@@ -20,3 +20,26 @@ https://dlnmh9ip6v2cxz.cloudfontes.net/sportv.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV",SporTV
 https://outbound-proxy-us-east1-0-glob-usercontent-client-id-2854336696.gc4d1o1kmu0ujc9uulvt8sz4e2t84ck0z7uvrzkbe2stjvfds1fdrfwumcbno8s.foo/docs/aie/__index.m3u8
+
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo RJ HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/170.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo RJ
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1448.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ HD Alternativo" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo RJ HD Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1818.ts
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ Alternativo" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo RJ Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2059.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo SP HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1676.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo SP
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1493.ts
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo SP Alternativo" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo SP Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1978.ts
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo Brasilia
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1446.ts
+#EXTINF:-1 tvg-id="GloboBrasilia.br" tvg-name="Globo Brasilia Alternativo" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo Brasilia Alternativo
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/2062.ts
+#EXTINF:-1 tvg-id="Globominas.br" tvg-name="Globo Minas HD" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo Minas HD
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/3492.ts
+#EXTINF:-1 tvg-id="Globo Minas" tvg-name="Globo Minas" tvg-logo="https://i.imgur.com/10LbyeN.png" group-title="Rede Globo",Globo Minas
+http://giantofthefuture.gleeze.com:25461/live/colepty1679/Hbplloxye/1443.ts
