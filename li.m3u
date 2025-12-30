@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Teste" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",TESTE
+https://d1muf25xa12so8hp30.s27-usa-cloudfront-net.online/token/725238bc4b927acd7dcfeb2ab698ab93/premiere6.m3u8
 #EXTINF:-1 group-title="CANAIS FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",ANIMAL PLANET FHD
 http://saga10.pro:80/345715/562156/1262964
 #EXTINF:-1 group-title="CANAIS FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",ANIMAL PLANET SD
