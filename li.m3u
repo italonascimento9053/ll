@@ -360,6 +360,17 @@ http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3857
 http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/3518
 #EXTINF:-1 group-title="CANAIS FILMES E SERIES 2" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",BR: WARNER CHANNEL HD
 http://vip.sibfungold.org:8080/bagio19821/GwDQuo6pwf@!Nnmd2ao70N/53254
-#EXTINF:-1 group-title="ESPN" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",ESPN
-https://d1muf25xa12so8hp30.s27-usa-cloudfront-net.online/token/6cf77852704c2685dc01146d8e53a603/espn.m3u8
-#EXTINF:-1 group-title=\"CANAIS FILMES E SERIES\" tvg-logo=\"https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png\",ANIMAL PLANET FHD\nhttps://d1muf25xa12so8hp30.s27-usa-cloudfront-net.online/token/4c828d912e2d19cba15265941bf0f7fa/premiere3.m3u8
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo=\"https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", Premiere Clubes
+https://d1muf25xa12so8hp30.s27-usa-cloudfront-net.online/token/a11947c044a01ace05767b83a99e231b/premiere.m3u8
+
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo=\"https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png, Premiere 2
+https://d1muf25xa12so8hp30.s27-usa-cloudfront-net.online/token/f0476485407375c83b3c2ce0abea11d9/premiere2.m3u8
+
+
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo=\"https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", Premiere 3 
+https://d1muf25xa12so8hp30.s27-usa-cloudfront-net.online/token/4c828d912e2d19cba15265941bf0f7fa/premiere3.m3u8
+
+
+
+
+
