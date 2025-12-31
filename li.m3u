@@ -1,77 +1,78 @@
 #EXTM3U
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", Premiere Clubes
+
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",Premiere Clubes
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/a11947c044a01ace05767b83a99e231b/premiere.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", Premiere 2
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",Premiere 2
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/f0476485407375c83b3c2ce0abea11d9/premiere2.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", Premiere 3
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",Premiere 3
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/4c828d912e2d19cba15265941bf0f7fa/premiere3.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", Premiere 4
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",Premiere 4
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/d493b1ce5bae5a4bdc7c1ab9075c4274/premiere4.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", Premiere 5
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",Premiere 5
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/33f5ce34d38b8064b361b62d83a878f9/premiere5.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", Premiere 6
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",Premiere 6
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/725238bc4b927acd7dcfeb2ab698ab93/premiere6.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", Premiere 7
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",Premiere 7
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/e1dbabf9409c58af7b8a8a72cc396ab8/premiere7.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", TNT
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",TNT
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/d7534d571d0b47184a140a63ee3e02a7/tnt.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", GLOBO RJ
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",GLOBO RJ
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/567f72008ae70270550e14886351cb09/globorj.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", BANDSPORTS
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",BANDSPORTS
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/c826dfc2540fbc845e913dd4ab0be4a4/bandsports.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", BAND TV
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",BAND TV
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/9f5459e87730f0a7c25a180fcf053d1b/band.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", RECORDTV
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",RECORDTV
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/06226d2d27d0d29967e66b11d06f82bd/record.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", SPACE
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",SPACE
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/cedeabd9cd5872b22bcf11c1ef5fcd50/space.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", UFC Fight Pass HD
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",UFC Fight Pass HD
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/cb539189298398eaab69035917b0500e/ufcfightpass.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", combate
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",combate
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/c03012b886eb320d32b4c2df469e3db5/combate.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", Globo SP
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",Globo SP
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/58614cfb9fdb8abac0c95a79195aa59d/globosp.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", ESPN 4
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",ESPN 4
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/31ac95df59985eb894170f1b6a330b63/espn4.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", ESPN 3
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",ESPN 3
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/ab2f9e0c5304621de8683c88fa76bcb5/espn3.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", ESPN 2
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",ESPN 2
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/9119052c30fd21c380fca5ff74e048c1/espn2.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", ESPN
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",ESPN
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/6cf77852704c2685dc01146d8e53a603/espn.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", SPORTV 3
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",SPORTV 3
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/3878b0f696411ae91300edcd79e9ef21/sportv3.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", SPORTV 2
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",SPORTV 2
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/3a7e64b4f42c80e84daf3d4bf56315e0/sportv2.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", SPORTV
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",SPORTV
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/335f00f834dc84dc265123e6c4ff951b/sportv.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", SBT
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",SBT
 https://d1muf25xa12so8hp31.s27-usa-cloudfront-net.online/token/2ec8f7a902519cd50025ec67b24654b3/sbt.m3u8
 
-#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png", SBT
+#EXTINF:-1 group-title="FUTEMAX" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",SBT
 https://rdcplayer.online/multi/player.html?m3u8=https://d1jvs4svzaqp8n.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI_TITAN_V3/indexMobile.m3u8
 
 #EXTINF:-1 group-title="CANAIS FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",ANIMAL PLANET FHD
